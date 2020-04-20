@@ -4,4 +4,4 @@ dmenu_pash
 dmenu_run
 stest
 *.rej
-*.oreg
+*.orig
